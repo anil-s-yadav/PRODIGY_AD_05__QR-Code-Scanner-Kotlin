@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.QRCodeScannerKotlin" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+         <item name="colorPrimary">@color/my_dark_primary</item>
+    </style>
+
+    <color name="my_dark_primary">#3283E6</color>
+    <color name="my_light_primary">#0E65E7</color>
+</resources>
